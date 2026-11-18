@@ -1,8 +1,8 @@
-# Expense_tracker_python
 
 # Expense Tracker
 
-A simple Python-based Expense Tracker application that helps users record, manage, and track their daily expenses.
+#Idea 
+A Python-based expense tracker for managing daily expenses, storing data in JSON, and generating monthly summaries.
 
 ## Features
 - Add new expenses with amount, category, and date.
@@ -16,6 +16,9 @@ A simple Python-based Expense Tracker application that helps users record, manag
 - Python
 - JSON
 - datetime module
+- expense-tracker
+- file-handling
+   
 
 ## How to Run
 
